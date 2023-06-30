@@ -4,10 +4,10 @@ export const getGlobalData = () => {
     : 'Synergy Networks';
   const blogTitle = process.env.BLOG_TITLE
     ? decodeURI(process.env.BLOG_TITLE)
-    : 'Test';
+    : 'For exploiters, by exploiters.';
   const footerText = process.env.BLOG_FOOTER_TEXT
     ? decodeURI(process.env.BLOG_FOOTER_TEXT)
-    : 'Test';
+    : 'ALL RIGHTS RESERVED.';
 
   return {
     name,
