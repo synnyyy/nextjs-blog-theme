@@ -7,7 +7,7 @@ export const getGlobalData = () => {
     : 'For exploiters, by exploiters.';
   const footerText = process.env.BLOG_FOOTER_TEXT
     ? decodeURI(process.env.BLOG_FOOTER_TEXT)
-    : 'ALL RIGHTS RESERVED.';
+    : 'discord.gg/Rrag82qTfw';
 
   return {
     name,
