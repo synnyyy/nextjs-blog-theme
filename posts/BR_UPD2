@@ -1,0 +1,8 @@
+---
+title: BetterBypasser Change log (2)
+description: ""
+date: July 13 2023
+---
+
+- Fixed UI not showing. For now, mobile devices are no longer supported temporarily.
+- Fixed new method not toggling properly
